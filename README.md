@@ -1,6 +1,4 @@
-<img width="1920" height="1059" alt="Screenshot 2026-01-13 173324" src="https://github.com/user-attachments/assets/29a14f25-7566-4542-adee-cf97509558be" />
-# AuraLink: Spatial Gesture OS
-![GITFINAL](GITFINAL.gif)
+
 
 AuraLink is a computer vision-based Human-Computer Interaction (HCI) tool that allows users to control their OS through hand gestures. Built for the future of touchless interfaces.
 
