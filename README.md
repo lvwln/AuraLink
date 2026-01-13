@@ -1,3 +1,5 @@
+<img width="1920" height="1020" alt="Screenshot 2026-01-13 202411" src="https://github.com/user-attachments/assets/14da4a5e-85c2-4559-bba1-f55015ac722d" />
+<img width="1266" height="833" alt="Screenshot (21)" src="https://github.com/user-attachments/assets/155a6002-cb3d-4c63-835c-dc7383bbafb7" />
 
 
 AuraLink is a computer vision-based Human-Computer Interaction (HCI) tool that allows users to control their OS through hand gestures. Built for the future of touchless interfaces.
